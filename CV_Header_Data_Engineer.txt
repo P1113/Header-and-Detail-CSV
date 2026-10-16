@@ -1,0 +1,5 @@
+From my understanding the lifecycle of a Data Engineer tended to be Excel->SQL All the way to Event Streaming and Architecture.
+
+Probably be python and data cleansing added onus of some pretty advanced API work.
+
+focusing on the data modeling aspect
