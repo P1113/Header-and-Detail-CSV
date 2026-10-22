@@ -1,5 +1,4 @@
-﻿CV-key,Project Category,Project Justification,Role,Company,GICS CODE,from,to,SAP,Mainframe Legacy,SQL_Used,edi,etl,Boomi,Microsoft,Cannonical Design,Event Queueing
-4c531d53-0f6a-45b6-aa47-4fc4f63051b8,Personal,Rehabilitation,Carer,Mother,N/A,,,,,, , ,,,,
+primary_cle_project,Personal,Rehabilitation,Carer,Mother,N/A,Column7,Column8,SAP,Mainframe,SQL, EDI, ETL,Boomi,Azure2,Cannonical Design,Event Streaming
 e7b10818-ce90-4310-9033-b15646d7b4e4,Migration,Succesfactors HR move to cloud ,Senior Boomi Consultant,BAE SYSTEMS,Aerospace & Defense,08/01/2024,01/12/2025,x,,,,x,x,,,
 5a7e8c53-aadb-47b7-bac4-997ea49289c1,BAU,New Integrations Backlog,Senior Boomi Consultant,Places For People,Real Estate Management & Development,01/01/2023,01/09/2023,,,,,x,x,,,
 73d65b22-1b7a-417d-abf9-a61797efbb42,Migration,Boomi replaces on prem,Senior Boomi Consultant,STICKLEBACK LIMITED,Professional Services,01/07/2022,01/09/2022,,,,,x,x,x,,
