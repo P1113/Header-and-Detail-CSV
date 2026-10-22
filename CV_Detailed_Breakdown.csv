@@ -1,22 +1,26 @@
-﻿primary_cle_project,company,Completed_Deliverables,Challenges
-e7b10818-ce90-4310-9033-b15646d7b4e4,BAE SYSTEMS,SAP Success Factor to SAP ECC Payroll Integrations updates,Very Complex without documentation
-e7b10818-ce90-4310-9033-b15646d7b4e4,BAE SYSTEMS,Various Performance Training and Department Reports,
-5a7e8c53-aadb-47b7-bac4-997ea49289c1,Places For People,"Payroll Masterfile,",
-5a7e8c53-aadb-47b7-bac4-997ea49289c1,Places For People,"Fixing Bugs in HR flows,",
-5a7e8c53-aadb-47b7-bac4-997ea49289c1,Places For People,BPMNS Modeling,
-5a7e8c53-aadb-47b7-bac4-997ea49289c1,Places For People,Home Repair Alerts,
-73d65b22-1b7a-417d-abf9-a61797efbb42,STICKLEBACK LIMITED,Integrate various commercial API's via boomi as reference checks for client on-boarding in Intapp,"Worldheck, Tiller, Credit Safe, Companies House"
-73d65b22-1b7a-417d-abf9-a61797efbb42,STICKLEBACK LIMITED,Ensuring Smooth transition of technical team to use boomi effectively,
-73d65b22-1b7a-417d-abf9-a61797efbb42,STICKLEBACK LIMITED,First point of contact for any complex issues,
-73d65b22-1b7a-417d-abf9-a61797efbb42,STICKLEBACK LIMITED,Worlds first working Person of Political Interest adaptor according to Intapp,Javascript had to be refactored
-8e4cf529-1e83-44d0-bb7c-950ba10ffd6e,Deloitte LLP,Workday and IFS feeds to SAP via a Snowflake Data Lake.,Snowflake was used as a repository to store all transactions
-441f8614-d739-4af3-82f5-6f3c81426467,LE CREUSET U.K. LIMITED,Designed and deployed Universal D365 API Call.,"Cont'd:Designed the main global call dequeued Manifests for consumption downstream based on Activity ID Splitting the Manifest and package header zips Also utilized some regex.The steps were get a token, get a download location, download manifestI used the standard Microsoft Dynamics 365 for Finance and Operations connector s part of the DMF framework. In short it was a DMF import flow"""
-441f8614-d739-4af3-82f5-6f3c81426467,LE CREUSET U.K. LIMITED,Invoice EDI design initial Proof of Concept,
-441f8614-d739-4af3-82f5-6f3c81426467,LE CREUSET U.K. LIMITED,Cannonical Design,Boomi Atom Queue Publish Subscribe with Cannonial Models (XML)
-441f8614-d739-4af3-82f5-6f3c81426467,LE CREUSET U.K. LIMITED,Global Multi-country Pricing Feed,All Lecreuset Online prices were powered by these
-d9a93c9a-8dcb-47c2-bc1d-328856e47c8d,KONECRANES FINLAND OY,Involved in early Design of Event Driven Architeture ,No permanent Databases allowed in cloud systems
-d9a93c9a-8dcb-47c2-bc1d-328856e47c8d,KONECRANES FINLAND OY,Creation of external API  Port authority  and the Terminal Operating System,Synchronous calls with complex back end processing
-d9a93c9a-8dcb-47c2-bc1d-328856e47c8d,KONECRANES FINLAND OY,Responsible for all Internal flows between externl API and TOS Event Driven Message Bus,Boomi was used as producer to various consumers. 
-d9a93c9a-8dcb-47c2-bc1d-328856e47c8d,KONECRANES FINLAND OY,Mentoring/Training external team (Vietnam) Sub Project: Billable transactions from Terminal sent to Port Authority,Time Zones
-d9a93c9a-8dcb-47c2-bc1d-328856e47c8d,KONECRANES FINLAND OY,Added a fututure proof Maritime EDI System by email though current client did not utilise,"Did not have an EDI license enabled, so designed a work around"
-d9a93c9a-8dcb-47c2-bc1d-328856e47c8d,KONECRANES FINLAND OY,"Mongo DB was used, via a correltion id as tempory storage to feedback data not sent to Terminal.","Mongo DB was used, via a correlation id as tempory storage to feedback data not sent to Terminal."
+primary_cle_project	company	Completed_Deliverables	Challenges	Column1
+e7b10818-ce90-4310-9033-b15646d7b4e4	BAE SYSTEMS	SAP Success Factor to SAP ECC Payroll Integrations updates	Very Complex without documentation	
+e7b10818-ce90-4310-9033-b15646d7b4e4	BAE SYSTEMS	Various Performance Training and Department Reports		
+5a7e8c53-aadb-47b7-bac4-997ea49289c1	Places For People	Payroll Masterfile,		
+5a7e8c53-aadb-47b7-bac4-997ea49289c1	Places For People	Fixing Bugs in HR flows,		
+5a7e8c53-aadb-47b7-bac4-997ea49289c1	Places For People	BPMNS Modeling		
+5a7e8c53-aadb-47b7-bac4-997ea49289c1	Places For People	Home Repair Alerts		
+73d65b22-1b7a-417d-abf9-a61797efbb42	STICKLEBACK LIMITED	Integrate various commercial API's via boomi as reference checks for client on-boarding in Intapp	Worldheck, Tiller, Credit Safe, Companies House	
+73d65b22-1b7a-417d-abf9-a61797efbb42	STICKLEBACK LIMITED	Ensuring Smooth transition of technical team to use boomi effectively		
+73d65b22-1b7a-417d-abf9-a61797efbb42	STICKLEBACK LIMITED	First point of contact for any complex issues		
+73d65b22-1b7a-417d-abf9-a61797efbb42	STICKLEBACK LIMITED	Worlds first working Person of Political Interest adaptor according to Intapp	Javascript had to be refactored	
+8e4cf529-1e83-44d0-bb7c-950ba10ffd6e	Deloitte LLP	Workday and IFS feeds to SAP via a Snowflake Data Lake.	Snowflake was used as a repository to store all transactions	Snowflake was used as a repository to store all transactions
+441f8614-d739-4af3-82f5-6f3c81426467	LE CREUSET U.K. LIMITED	Designed and deployed Universal D365 API Call.	Cont'd:Designed the main global call dequeued Manifests for consumption downstream based on Activity ID Splitting the Manifest and package header zips Also utilized some regex.The steps were get a token, get a download location, download manifestI used the standard Microsoft Dynamics 365 for Finance and Operations connector s part of the DMF framework. In short it was a DMF import flow"	
+441f8614-d739-4af3-82f5-6f3c81426467	LE CREUSET U.K. LIMITED	Invoice EDI design initial Proof of Concept		
+441f8614-d739-4af3-82f5-6f3c81426467	LE CREUSET U.K. LIMITED	Cannonical Design	Boomi Atom Queue Publish Subscribe with Cannonial Models (XML)	
+441f8614-d739-4af3-82f5-6f3c81426467	LE CREUSET U.K. LIMITED	Global Multi-country Pricing Feed	All Lecreuset Online prices were powered by these	
+d9a93c9a-8dcb-47c2-bc1d-328856e47c8d	KONECRANES FINLAND OY	Involved in early Design of Event Driven Architeture 	No permanent Databases allowed in cloud systems	
+d9a93c9a-8dcb-47c2-bc1d-328856e47c8d	KONECRANES FINLAND OY	Creation of external API  Port authority  and the Terminal Operating System	Synchronous calls with complex back end processing	
+d9a93c9a-8dcb-47c2-bc1d-328856e47c8d	KONECRANES FINLAND OY	Responsible for all Internal flows between externl API and TOS Event Driven Message Bus	Boomi was used as producer to various consumers. 	
+d9a93c9a-8dcb-47c2-bc1d-328856e47c8d	KONECRANES FINLAND OY	Mentoring/Training external team (Vietnam) Sub Project: Billable transactions from Terminal sent to Port Authority	Time Zones	
+d9a93c9a-8dcb-47c2-bc1d-328856e47c8d	KONECRANES FINLAND OY	Added a fututure proof Maritime EDI System by email though current client did not utilise	Did not have an EDI license enabled, so designed a work around by passing license	
+d9a93c9a-8dcb-47c2-bc1d-328856e47c8d	KONECRANES FINLAND OY	Mongo DB was used, via a correltion id as tempory storage to feedback data not sent to Terminal.	Mongo DB was used, via a correlation id as tempory storage to feedback data not sent to Terminal.	
+6399a9f4-4540-4c56-89d4-335c02921f52	IBM	Complete Barcode Scanner System for a warehouse	Scanner arrived without a driver or plug	Assembly Code Driver,  Soldering/Wiring, Turbo Pascal
+6399a9f4-4540-4c56-89d4-335c02921f52	IBM	Quality Testing Lab  BI and Data Entry system	Different monitors all had to be configured, green screen, Colour	Rexx Programing, QMF, DB2, SQL
+74abc62a-e043-4240-a6d5-c9f188c6f0d4	Chivas Regal 	EDI Transtator Coding/Creation	The "silver fox", as he was known, hid the Gentran software in a drawer, so I wrote my own translator.	MANTIS, EASYTRIEVE, COBOL,REXX
+74abc62a-e043-4240-a6d5-c9f188c6f0d4	Chivas Regal 	OMS; Order Management	This wasn’t off the shelf	MANTIS, EASYTRIEVE, COBOL,REXX
